@@ -7,6 +7,10 @@
  
 <a  href="https://github.com/Noobdev008?tab=followers"><img src="https://img.shields.io/github/followers/0ranjeet?label=Followers&style=social" alt="GitHub Badge"></a>
 
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
 ## ⚡ Tech Stack
 
 
