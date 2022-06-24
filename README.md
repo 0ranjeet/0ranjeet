@@ -8,7 +8,7 @@
 <a  href="https://github.com/Noobdev008?tab=followers"><img src="https://img.shields.io/github/followers/0ranjeet?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="300px">
+<img src="https://media1.giphy.com/media/gjgECQHU6Alra18Xpm/giphy.gif?cid=ecf05e47m65ds4ptj5pewmel4d0vfemcwtd8350hii03a3j9&rid=giphy.gif&ct=s" width="30px">
 
 
 ## ⚡ Tech Stack
