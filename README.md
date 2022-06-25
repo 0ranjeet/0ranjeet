@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=0ranjeet&label=Profile%20views&color=9c0ea4&style=flat"
     alt="Ranjeet" /> 
  
-<a  href="https://github.com/Noobdev008?tab=followers"><img src="https://img.shields.io/github/followers/0ranjeet?label=Followers&style=social" alt="GitHub Badge"></a>
+<a ><img src="https://img.shields.io/github/followers/0ranjeet?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <img src="https://media3.giphy.com/media/3oFzmsANNWiz1ENuVy/giphy.gif?cid=ecf05e47m65ds4ptj5pewmel4d0vfemcwtd8350hii03a3j9&rid=giphy.gif&ct=s" width="30px">
