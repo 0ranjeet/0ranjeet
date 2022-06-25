@@ -31,10 +31,16 @@
  
 </p> 
 
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=0ranjeet&hide_border=true&theme=redical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ranjeet&show_icons=true&locale=en&layout=compact" alt="Ranjeet" /></p>
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=0ranjeet&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0ranjeet&theme=radical&layout=compact) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ranjeet&show_icons=true&locale=en" alt="Ranjeet" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0ranjeet"></img>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 ## Thanks for visiting :heart:
