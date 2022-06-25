@@ -40,7 +40,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0ranjeet"></img>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](0ranjeet./profile-3d-contrib/profile-green-animate.svg)
 
 
 ## Thanks for visiting :heart:
