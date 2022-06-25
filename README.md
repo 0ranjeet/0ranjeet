@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=56F722&lines=Hi+there+%E2%9C%8C%EF%B8%8Fwelcome+to+my+profile;I+am+Ranjeet+Sahoo;Always+Learning+new+things;Exploring+Interstellar%E2%9C%A8%F0%9F%8C%A0)
 
-  <img src="https://komarev.com/ghpvc/?username=0ranjeet&label=Profile%20views&color=9c0ea4&style=flat"
+  <img src="https://komarev.com/ghpvc/?username=0ranjeet&label=Profile%20views&color=F7794E&style=flat"
     alt="Ranjeet" /> 
  
 <a ><img src="https://img.shields.io/github/followers/0ranjeet?label=Followers&style=social" alt="GitHub Badge"></a>
