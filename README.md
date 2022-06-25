@@ -30,7 +30,7 @@
 
  
 </p> 
-#### Thanks for visiting :heart:
+## Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/0ranjeet/count.svg">  
