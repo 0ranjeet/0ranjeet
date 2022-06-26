@@ -33,12 +33,15 @@
 
 
 ### 📈 GitHub Activity Graph:
+<p align="center">
+  <a href="https://github.com/0ranjeet">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=0ranjeet&theme=tokyonight&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=0ranjeet&theme=tokyonight_duo" />
+  </a>
+</p>
+<br>
 
-<div>
- <a href="https://github.com/0ranjeet">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0ranjeet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ranjeet&layout=compact&langs_count=16&theme=dark"/>
- </div>
+[![](https://activity-graph.herokuapp.com/graph?username=0ranjeet&custom_title=Ranjeet%20Contribution%20Graph&theme=gruvbox&bg_color=282828&border=2px&line=d1a01f&point=c58545)](https://github.com/0ranjeet)
 
 
 ## Thanks for visiting :heart:
