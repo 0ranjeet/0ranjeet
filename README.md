@@ -33,14 +33,12 @@
 
 
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=0ranjeet&hide_border=true&theme=redical)                                                                                                                                                                                                                                                               
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=0ranjeet&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0ranjeet&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0ranjeet"></img>
-
-
-![](0ranjeet./profile-3d-contrib/profile-green-animate.svg)
+<div>
+ <a href="https://github.com/0ranjeet">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0ranjeet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ranjeet&layout=compact&langs_count=16&theme=dark"/>
+ </div>
 
 
 ## Thanks for visiting :heart:
