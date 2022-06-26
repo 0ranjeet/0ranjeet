@@ -44,7 +44,7 @@
 </p>
 <br>
 
-[![](https://activity-graph.herokuapp.com/graph?username=0ranjeet&custom_title=Ranjeet%20Contribution%20Graph&theme=gruvbox&bg_color=282828&border=2px&line=d1a01f&point=c58545)](https://github.com/0ranjeet)
+[![](https://activity-graph.herokuapp.com/graph?username=0ranjeet&hide_border=true&theme=redical)](https://github.com/0ranjeet)
 
 
 ## Thanks for visiting :heart:
