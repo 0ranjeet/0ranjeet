@@ -31,9 +31,9 @@
  
 </p> 
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=0ranjeet&hide_border=true&theme=redical)
 
-| .                                                                                                                                       | .                                                                                                                         |
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=0ranjeet&hide_border=true&theme=redical)                                                                                                                                                                                                                                                               
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=0ranjeet&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0ranjeet&theme=radical&layout=compact) |
 
