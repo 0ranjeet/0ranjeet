@@ -1,3 +1,4 @@
+
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fascinate&size=35&duration=4000&color=b88ceb&center=true&width=514&height=90&lines=WELCOME)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=56F722&lines=Hi+there+%E2%9C%8C%EF%B8%8Fwelcome+to+my+profile;I+am+Ranjeet+Sahoo;Always+Learning+new+things;Exploring+Interstellar%E2%9C%A8%F0%9F%8C%A0)
@@ -106,3 +107,5 @@ counting of visitors to this page in this section started from June 24, 2022
 counting of visitors to this page in this section started from June 24, 2022
 
 ![](https://count.getloli.com/get/@0ranjeet.github.readme)
+
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
