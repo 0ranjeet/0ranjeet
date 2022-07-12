@@ -102,4 +102,4 @@ counting of visitors to this page in this section started from June 24, 2022
 
 ![](https://count.getloli.com/get/@0ranjeet.github.readme)
 
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" height="250px">
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
