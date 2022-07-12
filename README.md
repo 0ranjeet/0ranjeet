@@ -1,5 +1,5 @@
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fascinate&size=35&duration=4000&color=b88ceb&center=true&width=514&height=90&lines=WELCOME)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fascinate&size=35&duration=4000&color=b88ceb&center=true&width=514&height=90&lines=WELCOME)<img src="https://media3.giphy.com/media/3oFzmsANNWiz1ENuVy/giphy.gif?cid=ecf05e47m65ds4ptj5pewmel4d0vfemcwtd8350hii03a3j9&rid=giphy.gif&ct=s" width="250px">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=56F722&lines=Hi+there+%E2%9C%8C%EF%B8%8Fwelcome+to+my+profile;I+am+Ranjeet+Sahoo;Full+Stack+Devloper;Always+Learning+new+things;Exploring+Interstellar%E2%9C%A8%F0%9F%8C%A0)
 
@@ -8,13 +8,6 @@
  
   <img src="https://img.shields.io/github/followers/0ranjeet?label=Followers&style=social" alt="GitHub Badge">
   
-  
-  
-
-
-<img src="https://media3.giphy.com/media/3oFzmsANNWiz1ENuVy/giphy.gif?cid=ecf05e47m65ds4ptj5pewmel4d0vfemcwtd8350hii03a3j9&rid=giphy.gif&ct=s" width="300px">
-
-
 ## ⚡ Tech Stack
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0ranjeet&layout=compact&theme=tokyonight)
 
@@ -109,4 +102,4 @@ counting of visitors to this page in this section started from June 24, 2022
 
 ![](https://count.getloli.com/get/@0ranjeet.github.readme)
 
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" height="250px">
