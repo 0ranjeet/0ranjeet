@@ -12,7 +12,7 @@
   
 
 
-<img src="https://media3.giphy.com/media/3oFzmsANNWiz1ENuVy/giphy.gif?cid=ecf05e47m65ds4ptj5pewmel4d0vfemcwtd8350hii03a3j9&rid=giphy.gif&ct=s" width="30px">
+<img src="https://media3.giphy.com/media/3oFzmsANNWiz1ENuVy/giphy.gif?cid=ecf05e47m65ds4ptj5pewmel4d0vfemcwtd8350hii03a3j9&rid=giphy.gif&ct=s" width="300px">
 
 
 ## ⚡ Tech Stack
