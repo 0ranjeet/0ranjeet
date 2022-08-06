@@ -20,7 +20,8 @@
     <a ><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a ><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a ><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href='https://howlerjs.com/' ><img alt="howler.js"width="90" height="20" src="https://github.com/0ranjeet/0ranjeet/blob/main/Screenshot%202022-07-23%20205416.png?raw=true"></a>
+    <a href='https://howlerjs.com/' ><img alt="howler.js"width="90" height="20" src="https://github.com/0ranjeet/0ranjeet/blob/main/Screenshot%202022-07-23%20205416.png?raw=true"></a>'
+    <a href='https://howlerjs.com/' style="backgroundcolor:white"; ><img alt="howler.js"width="90" height="20" src="https://canvasjs.com/wp-content/uploads/images/logo/canvasjs-logo-120x50.png"></a>
 
 </p>
 
