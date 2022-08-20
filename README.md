@@ -99,7 +99,7 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/0ranjeet/count.svg">  
 
-counting of visitors to this page in this section started from June 24, 2022
+
   
 <a href="https://info.flagcounter.com/yDWI"><img src="https://s11.flagcounter.com/count2/yDWI/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
