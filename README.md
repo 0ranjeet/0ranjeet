@@ -6,7 +6,7 @@
    <img src="https://komarev.com/ghpvc/?username=0ranjeet&label=Profile%20views&color=F7794E&style=flat"
     alt="Ranjeet" /> 
  
-  <img src="https://img.shields.io/github/followers/0ranjeet?label=Followers&style=social" alt="GitHub Badge">
+
   
 ## ⚡ Tech Stack
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0ranjeet&layout=compact&theme=tokyonight)
