@@ -109,4 +109,4 @@ counting of visitors to this page in this section started from June 24, 2022
 ![](https://count.getloli.com/get/@0ranjeet.github.readme)
 
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
-   <a href="https://indorse.io/0ranjeet"><img src="https://www.bing.com/th?id=AMMS_553c88f9f6a0455424de58fe578e6631&w=148&h=148&c=7&o=6&dpr=1.38&pid=SANGAM" width="30 !important" height="30" style="margin-right:15px!important"></a>
+   
