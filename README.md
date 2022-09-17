@@ -90,7 +90,7 @@
 <a href="mailto:ranjeetsahoo007@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
 <a href="https://discordapp.com/users/ranjeet098#5577"><img src="https://wallpaperaccess.com/full/765574.jpg" width="30" height="30"></a>
 <a href="https://telegram.me/Ranjeet_0_0"><img src="https://pnggrid.com/wp-content/uploads/2021/04/square-telegram-2048x1868.png"width="30" height="30"></a>
- 
+<a href="https://en.wikipedia.org/wiki/User:007Ranjeet"><img src="https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@1.5x.png"width="30" height="30"></a>
 </p> 
 
 ## Thanks for visiting :heart:
