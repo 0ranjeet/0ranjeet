@@ -96,8 +96,9 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/0ranjeet/count.svg">  
 
+###  Spotify Playing 🎧
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe7qu2mwtdsnzxsge73a6rkrvu)
 
 
 
