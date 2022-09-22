@@ -80,9 +80,6 @@
 <br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=0ranjeet&bg_color=000000&color=76a8fe&line=bf17fd&point=38b7ab&area=true&hide_border=true)
-###  Spotify Playing 🎧
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe7qu2mwtdsnzxsge73a6rkrvu)
 
 ## 🤳Get in touch:
 <p align="center">
