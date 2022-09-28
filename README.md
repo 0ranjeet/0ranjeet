@@ -28,7 +28,6 @@
 
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href='https://howlerjs.com/' ><img alt="howler.js"width="90" height="20" src="https://github.com/0ranjeet/0ranjeet/blob/main/Screenshot%202022-07-23%20205416.png?raw=true"></a>
     <a href='https://canvasjs.com/' ><img alt="howler.js"width="90" height="20" src="https://github.com/0ranjeet/0ranjeet/blob/main/Screenshot%202022-08-06%20095157.png?raw=true"></a>
       
