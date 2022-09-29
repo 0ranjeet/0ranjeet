@@ -50,8 +50,7 @@
 
 <p>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-(----)%20Soundtrap-purple"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+    <a href="#"><img alt="" src="https://img.shields.io/badge/-(----)%20Soundtrap-purple"></a>
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="https://codepen.io/0ranjeet"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
