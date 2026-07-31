@@ -86,8 +86,8 @@
 <a href="https://www.hackerrank.com/ranjeetsahoo007"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png"width="30" height="30"></a>
    <a href="https://en.wikipedia.org/wiki/User:007Ranjeet"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/500px-Wikipedia-logo-v2.svg.png" width="30" height="30"></a>
 <a href="mailto:ranjeetsahoo007@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/250px-Gmail_icon_%282026%29.svg.png" width="30" height="30" style="margin-right: 15px !important"></a>
-   <a href="https://www.linkedin.com/in/007ranjeet"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30 !important" height="30" style="margin-right:15px!important"></a>
-   <a href="https://telegram.me/Ranjeet_0_0"><img src="https://pnggrid.com/wp-content/uploads/2021/04/square-telegram-2048x1868.png"width="30" height="30"></a>
+   <a href="https://www.linkedin.com/in/007ranjeet"><img src="https://img.icons8.com/color/1200/linkedin.jpg" width="30 !important" height="30" style="margin-right:15px!important"></a>
+   <a href="https://telegram.me/Ranjeet_0_0"><img src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png"width="30" height="30"></a>
 <a href="https://discordapp.com/users/ranjeet098#5577"><img src="https://wallpaperaccess.com/full/765574.jpg" width="30" height="30"></a>
 
 
